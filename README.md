@@ -1,5 +1,7 @@
 ## 
-I am an ecologist using quantitative methods to understand how ecosystems respond to environmental change caused by humans
+I am an ecologist using quantitative methods to understand how ecosystems respond to environmental change caused by humans.
+
+My research thus far has focused on how plants and wildlife respond to disturbance, specifically fire. I use modeling techniques such as occupancy models, resource selection functions, and species distribution models to understand ecological processes
 
 <!--
 **ryanpienaar/ryanpienaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
