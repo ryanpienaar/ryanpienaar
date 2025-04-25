@@ -1,4 +1,5 @@
-## Hi there 👋
+## 
+I am an ecologist using quantitative methods to understand how ecosystems respond to environmental change caused by humans
 
 <!--
 **ryanpienaar/ryanpienaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
